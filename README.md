@@ -23,6 +23,6 @@ Emotional Intelligence: The app can help children with special needs develop bet
 Improved Communication: The app can help parents understand non-verbal cues from their children, aiding in better communication and emotional support. 
 
 ## Project Background
-The idea for EmotiKidz was inspired by personal experiences whose loved ones with autism and faces daily challenges in communicating emotions. The project aims to address the needs of families with children who have communication challenges, providing a tool to understand and support their emotional well-being. 
+The idea for EmotiKidz was inspired by personal experiences whose loved ones has autism and faces daily challenges in communicating emotions. The project aims to address the needs of families with children who have communication challenges, providing a tool to understand and support their emotional well-being. 
 
-##GitHub Repository
+
