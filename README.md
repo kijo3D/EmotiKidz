@@ -15,8 +15,11 @@ EmotiKidz is an innovative mobile application designed to help parents and careg
 
 ## Benefits
 Accessibility: The mobile app format provides parents with the convenience of monitoring their child's emotions on the go.
+
 Real-time Monitoring: The app can continuously monitor the child's emotional state and provide timely notifications and alerts. 
+
 Emotional Intelligence: The app can help children with special needs develop better emotional intelligence, leading to healthier social interactions.
+
 Improved Communication: The app can help parents understand non-verbal cues from their children, aiding in better communication and emotional support. 
 
 ## Project Background
