@@ -25,6 +25,6 @@ Improved Communication: The app can help parents understand non-verbal cues from
 ## Project Background
 The idea for EmotiKidz was inspired by personal experiences whose loved ones has autism and faces daily challenges in communicating emotions. The project aims to address the needs of families with children who have communication challenges, providing a tool to understand and support their emotional well-being. 
 
-##GitHub Repository
+## GitHub Repository
 https://github.com/ksu-hmi/EmotiKidz.git
 
