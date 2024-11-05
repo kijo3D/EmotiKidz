@@ -1,5 +1,5 @@
 # EmotiKidz: Emotion Recognition Mobile App
-This is Sprint 1 our amazing project.Looking forward to it changing lives
+This is Sprint 1 our amazing project. Looking forward to it changing lives around the world.
 
 ## Overview
 EmotiKidz is an innovative mobile application designed to help parents and caregivers understand a child's emotional state through facial expression analysis. The app utilizes computer vision and machine learning techniques to analyze real-time video feeds or static images of a child's face, detecting emotions such as happiness, sadness, anger, fear, surprise, and disgust. 
